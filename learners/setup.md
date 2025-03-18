@@ -5,7 +5,7 @@ title: Setup
 **Required**
 
 Prior to the workshop you will need to setup a free account for [GitLab](https://gitlab.com/)
-or (_preferentially_) on the local EMBL instance [git.embl.de](https://git.embl.de/).
+or (*preferentially*) on the local EMBL instance [git.embl.de](https://git.embl.de/).
 If you need assistance with loggin in the EMBL GitLab platform,
 check [these instructions](https://grp-bio-it.embl-community.io/blog/posts/2021-01-29-mattermost-embl-chat/#login-via-gitlab).
 
@@ -19,6 +19,9 @@ next level. So, please consider installing the Bash Shell and Git in your laptop
 Once you have Git and the Bash Shell installed, you are all set to follow
 [these training materials](https://swcarpentry.github.io/git-novice/) and learn the basis of Git.
 
+
+
 [workshop-setup]: https://carpentries.github.io/workshop-template/#the-bash-shell
 
-{% include links.md %}
+
+
