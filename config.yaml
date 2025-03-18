@@ -33,7 +33,7 @@ life_cycle: 'alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/building-websites-with-gitlab-en/'
+source: 'https://github.com/BioNT-Training/building-websites-with-gitlab-en'
 
 # Default branch of your lesson
 branch: 'main'
@@ -90,7 +90,6 @@ profiles:
 
 
 carpentry_description: Lesson Description
-url: https://preview.carpentries.org/building-websites-with-gitlab-en
+url: 'https://BioNT-Training.github.io/building-websites-with-gitlab-en'
 analytics: carpentries
 lang: en
-workbench-beta: yes
