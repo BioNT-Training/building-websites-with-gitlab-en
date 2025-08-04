@@ -20,7 +20,7 @@ carpentry: 'cp'
 title: 'Building Websites with GitLab'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created:
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -64,7 +64,7 @@ contact: 'lisanna.paladin@embl.de'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - 01-introduction.md
 - 02-markdown.md
 - 03-gitlab-pages.md
@@ -75,13 +75,13 @@ episodes:
 - 08-when-things-go-wrong.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
@@ -93,3 +93,13 @@ carpentry_description: Lesson Description
 url: 'https://BioNT-Training.github.io/building-websites-with-gitlab-en'
 analytics: carpentries
 lang: en
+
+languages:
+  default: English
+  other:
+    - lang: Deutsch
+      url: "https://biont-training.github.io/building-websites-with-gitlab-de"
+    - lang: "Español"
+      url: "https://biont-training.github.io/building-websites-with-gitlab-es"
+    - lang: Italiano
+      url: "https://biont-training.github.io/building-websites-with-gitlab-it"
