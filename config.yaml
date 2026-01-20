@@ -91,7 +91,9 @@ profiles:
 
 carpentry_description: Lesson Description
 url: 'https://BioNT-Training.github.io/building-websites-with-gitlab-en'
-analytics: carpentries
+analytics: |
+  <script defer data-domain="biont-training.github.io" src="https://plausible.galaxyproject.eu/js/script.js"></script>
+
 lang: en
 
 languages:
